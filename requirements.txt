@@ -1,1 +1,2 @@
 keyboard==0.13.2
+pyside2==5.11.1

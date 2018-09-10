@@ -2,7 +2,7 @@ import sys
 import random
 from PySide2.QtCore import Qt
 from PySide2.QtWidgets import (QApplication, QWidget,
-    QPushButton, QLabel, QVBoxLayout)
+                               QPushButton, QLabel, QVBoxLayout)
  
  
 class MyWidget(QWidget):
